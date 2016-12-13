@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_bar_item_one"
+        android:icon="@drawable/ic_favorite_border_black_48dp"
+        android:title="People" />
+
+    <item
+        android:id="@+id/bottom_bar_item_two"
+        android:icon="@drawable/ic_history_black_48dp"
+        android:title="Business" />
+
+    <item
+        android:id="@+id/bottom_bar_item_three"
+        android:icon="@drawable/ic_perm_identity_black_48dp"
+        android:title="Company" />
+
+    <item
+        android:id="@+id/bottom_bar_item_four"
+        android:icon="@drawable/ic_search_black_48dp"
+        android:title="Log" />
+
+    <item
+        android:id="@+id/bottom_bar_item_five"
+        android:icon="@drawable/ic_toys_black_48dp"
+        android:title="Pending" />
+
+</menu>
